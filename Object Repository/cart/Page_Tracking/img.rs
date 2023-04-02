@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7f03fc19-7277-4ab0-9b2f-a0550539216f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8ae17a90-a5c0-4543-b4db-4446dc77d66f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/img/back.png</value>
+      <webElementGuid>143a4288-7e0e-4371-bb9b-32ccbf8adf3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-image&quot;]/div[@class=&quot;container-fluid my-5 d-sm-flex justify-content-center&quot;]/div[@class=&quot;card px-2&quot;]/div[@class=&quot;card-header bg-white&quot;]/div[@class=&quot;row justify-content-between&quot;]/a[1]/img[1]</value>
+      <webElementGuid>2d34aafa-a325-44f0-9e00-3d73ee20b3dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>1a97dd24-c74f-4275-a762-5fb5589a0caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/img/back.png']</value>
+      <webElementGuid>54a6f6f2-ca58-4c29-b788-25c1d5842f29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

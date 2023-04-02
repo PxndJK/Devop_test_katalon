@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Sun Apr 02 2023 205223 GMT0000 (Coordina_23c476</name>
+   <tag></tag>
+   <elementGuidId>77aa349b-22e9-4a78-b74f-d4064aa58e23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='orders-tbody']/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>cccfcfe5-2dc9-4905-ad7a-6ac8fca7ad4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sun Apr 02 2023 20:52:23 GMT+0000 (Coordinated Universal Time)</value>
+      <webElementGuid>55433f1c-a515-44e5-92f2-76bc9ad190c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orders-tbody&quot;)/tr[1]/td[2]</value>
+      <webElementGuid>0fc4fca0-6325-4ddd-bef8-5c6a9c81a906</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='orders-tbody']/tr/td[2]</value>
+      <webElementGuid>8f8d061c-5037-43d5-8323-91cd3447eec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIONS'])[1]/following::td[2]</value>
+      <webElementGuid>f487debc-b8fd-4636-bc5f-49011c15983d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATUS'])[1]/following::td[2]</value>
+      <webElementGuid>5f8f1430-db4a-4346-98c5-d28fe428d7be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cooking'])[1]/preceding::td[1]</value>
+      <webElementGuid>29e52d27-1cc4-474f-b4af-a6acdfaad443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cook'])[1]/preceding::td[2]</value>
+      <webElementGuid>657a0324-db5f-48aa-886e-578b8ee9e35c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sun Apr 02 2023 20:52:23 GMT+0000 (Coordinated Universal Time)']/parent::*</value>
+      <webElementGuid>b2cb94ac-692e-40b2-a4f2-5a9d3bd10558</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>7126d73c-6a14-4688-8f28-8ae131558610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Sun Apr 02 2023 20:52:23 GMT+0000 (Coordinated Universal Time)' or . = 'Sun Apr 02 2023 20:52:23 GMT+0000 (Coordinated Universal Time)')]</value>
+      <webElementGuid>ae061996-1f28-4c79-a341-13e7054611d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

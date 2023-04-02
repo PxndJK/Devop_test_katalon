@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cooking</name>
+   <tag></tag>
+   <elementGuidId>d96609c7-1551-421b-a5b6-1e6438ea9cd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='orders-tbody']/tr/td[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5498f8a0-7b3b-4194-be3d-638a29790c91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>status ${order.status.toLowerCase()}</value>
+      <webElementGuid>595194af-4eef-4646-b8aa-ef8a48ace671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cooking</value>
+      <webElementGuid>59b3bc70-31cc-4df3-8c78-a7c6e0c78c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orders-tbody&quot;)/tr[1]/td[3]/span[@class=&quot;status ${order.status.toLowerCase()}&quot;]</value>
+      <webElementGuid>25decdc3-035a-45a8-ac10-1a56363f79fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='orders-tbody']/tr/td[3]/span</value>
+      <webElementGuid>631c88c3-3a3d-4ad4-be8b-2b48480b64d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun Apr 02 2023 20:52:23 GMT+0000 (Coordinated Universal Time)'])[1]/following::span[1]</value>
+      <webElementGuid>c4696f55-3a0a-47a9-b9f3-4942bd83826d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACTIONS'])[1]/following::span[1]</value>
+      <webElementGuid>b06e1213-382d-4e03-8002-de2139d8c696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cook'])[1]/preceding::span[1]</value>
+      <webElementGuid>f1262799-5d4c-44cd-8836-aadc6ae10271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery'])[1]/preceding::span[1]</value>
+      <webElementGuid>3055aac5-e23b-4bf9-8de7-50091e3acc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cooking']/parent::*</value>
+      <webElementGuid>8075ad1a-4521-42f7-ba61-b9067d2ca70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/span</value>
+      <webElementGuid>c6a751d8-fa2b-476d-9ddb-d010898b2ce9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cooking' or . = 'Cooking')]</value>
+      <webElementGuid>0a4b1ef8-e33b-4e38-b91a-544704151ad8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
